@@ -111,13 +111,13 @@ Finally, the fifth image (Traffic Signals) is of very poor image quality; one ca
 
 As you can see from cells 8 and 9, my classifier correctly predicted all 5 images.  Using the labels from "signnames.csv", these are the results from the classifier:
 
-Image                 Prediction
-:-------------------::-------------------------:
-Bumpy Road            (22) - Bumpy Road
-Mandatory Roundabout  (40) - Mandatory Roundabout
-Right of Way          (11) - Right of Way
-Stop                  (14) - Stop
-Traffic Signals       (26) - Traffic Signals
+Image                 Prediction  
+---
+Bumpy Road            (22) - Bumpy Road  
+Mandatory Roundabout  (40) - Mandatory Roundabout  
+Right of Way          (11) - Right of Way  
+Stop                  (14) - Stop  
+Traffic Signals       (26) - Traffic Signals  
 
 This results in 100% accuracy for these images, which is even better than the 95.5% accuracy on the testing set.
 
